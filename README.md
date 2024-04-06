@@ -1,1 +1,1 @@
-# This is the MATLAN code for NLPSR-jSO. Please modify the save path when running this code.
+# This is the MATLAB code for NLPSR-jSO. Please modify the save path when running this code.
